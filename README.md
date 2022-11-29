@@ -23,5 +23,4 @@
   <p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=msmith24-coding&amp;theme=dark&amp;background=000000" alt="GitHub Streak"></a></p>
   <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msmith24-coding&theme=vision-friendly-dark" alt="Top Langs"></a></p>
 </div>
-
 <hr>
