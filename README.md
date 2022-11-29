@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  
+  <img src="https://avatars.githubusercontent.com/u/118890591?v=4" alt="Profile Picture"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/michael-smith-628857253/">
