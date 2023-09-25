@@ -1,6 +1,6 @@
 ## **About me**
 - [📖] I'm studying computer science and mathematics at Edinboro University.
-- [🌱] I'm currently learning OpenGL by building projects.
+- [🌱] I'm currently learning OpenGL/Vulkan by building projects.
 - [🤝] I'm looking to collaborate on open source projects!
 - [📬] You can reach me here: **msmith20rl@gmail.com**
 - [⚡] Fun Fact: I enjoy solving Rubik's Cubes quickly. 🤓
