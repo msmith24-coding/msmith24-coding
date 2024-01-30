@@ -27,6 +27,8 @@
 </a>
 </p>
 
+![Snake animation](https://github.com/msmith24-coding)
+
 <p align="center">
  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=msmith24-coding&theme=dark&hide_border=false"/>
 </p>
